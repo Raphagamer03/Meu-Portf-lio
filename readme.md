@@ -1,2 +1,1 @@
-Olá esse projeto é o meu portfolio 
-estou criando a página inicial 
+Este é o projeto do meu portfólio como desenvolvedor 
